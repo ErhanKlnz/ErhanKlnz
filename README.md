@@ -2,8 +2,8 @@
 
 <h3 align="center">A developer from Turkey</h3>
   
-- 📫 How to reach me **erhanzekikilnaz@hotmail.com**
-      ![](https://komarev.com/ghpvc/?username=ErhanKlnz)
+- 📫 How to reach me **erhanzekikilnaz@hotmail.com**<br>
+  ![](https://komarev.com/ghpvc/?username=ErhanKlnz)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
