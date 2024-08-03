@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
 
 <h3 align="center">A developer from Turkey</h3>
-
+</details>
 <p align="center">
    ![](https://komarev.com/ghpvc/?username=ErhanKlnz)
 </p>
+<details>
 - 📫 How to reach me **erhanzekikilnaz@hotmail.com**
   
 <h3 align="left">Connect with me:</h3>
